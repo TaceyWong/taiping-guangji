@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "67c77bd367f4e100",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae380cf40cc4c6ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c34ed241c68cabb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "005"
+            }
+          },
+          {
+            "id": "dcae828e6616eb5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006"
+            }
+          },
+          {
+            "id": "a33104c99c2c1710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "007.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "007"
+            }
+          },
+          {
+            "id": "796305135e6129e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "008.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "008"
+            }
+          },
+          {
+            "id": "b67cbcef56141349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "010"
+            }
+          },
+          {
+            "id": "3b80beae8be6b51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "011.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "011"
+            }
+          },
+          {
+            "id": "e7ff544372624c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "012.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "012"
+            }
+          },
+          {
+            "id": "978a7212b2bad379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "013.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "013"
+            }
+          },
+          {
+            "id": "b9c4698d32644f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "367.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "367"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df901fe3316483e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e9970acae82c68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40038061ce0f1127",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a4c3f193c469ca27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "东方朔",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c116fe713c9edea2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bde1ab9674d046c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4d39594c4af02d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb10d6882377164",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "072.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "072 的反向链接列表"
+            }
+          },
+          {
+            "id": "abffea37dc74618a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "005.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 005"
+            }
+          },
+          {
+            "id": "3cdfcf71b0c0a7a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f28c8e7069a5d87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "367.md"
+              },
+              "icon": "lucide-list",
+              "title": "367 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a4c3f193c469ca27",
+  "lastOpenFiles": [
+    "496.md",
+    "072.md",
+    "067.md",
+    "024.md",
+    "015.md",
+    "025.md",
+    "020.md",
+    "008.md",
+    "016.md",
+    "071.md",
+    "070.md",
+    "069.md",
+    "068.md",
+    "013.md",
+    "066.md",
+    "065.md",
+    "064.md",
+    "063.md",
+    "062.md",
+    "061.md",
+    "060.md",
+    "059.md",
+    "058.md",
+    "057.md",
+    "056.md",
+    "055.md",
+    "070",
+    "069",
+    "068",
+    "067",
+    "066",
+    "065",
+    "064",
+    "063",
+    "062",
+    "061"
+  ]
+}
